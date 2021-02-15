@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>测试页面</string>
+		<key>page</key>
+		<string>TestVC</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>底部导航栏列表</string>
+		<key>page</key>
+		<string>TabBarList</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>alert弹窗</string>
+		<key>page</key>
+		<string>AlertVC</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>progress进度条</string>
+		<key>page</key>
+		<string>ProgressVC</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>scrollView轮播图</string>
+		<key>page</key>
+		<string>CarouselVC</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>富文本修改</string>
+		<key>page</key>
+		<string>RichTextVC</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>照片库</string>
+		<key>page</key>
+		<string>CameraVC</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>音频播放</string>
+		<key>page</key>
+		<string>AudioPlayerVC</string>
+	</dict>
+</array>
+</plist>
